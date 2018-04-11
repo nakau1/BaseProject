@@ -1,0 +1,6 @@
+framework module Pods_BASE_PROJECT {
+  umbrella header "Pods-BASE_PROJECT-umbrella.h"
+
+  export *
+  module * { export * }
+}
